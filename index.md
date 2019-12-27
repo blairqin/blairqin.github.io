@@ -20,3 +20,15 @@ PhD student at UNSW Sydney.
 __Xi’an Jiaotong University.__
 
 - Bachelor of Management, Accounting (International Accounting) Program.
+
+## Volunteer Experiences
+
+`Nov. 2014 – Dec. 2014`
+__Shaanxi History Museum__
+
+- Volunteer Museum Guide
+
+`Jun. 2012 – Jul. 2012`
+__Caoping Middle School__
+
+- Volunteer Teacher in Math and Physics
