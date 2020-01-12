@@ -6,7 +6,7 @@ title: Ling Qin's CV
 Pushing the boundary.
 
 <div id="webaddress">
-<a href="mailto:l.qin@unsw.edu.au">l.qin@unsw.edu.au</a>
+l.qin(at)unsw(dot)edu(dot)au
 </div>
 
 
